@@ -17,7 +17,7 @@ export function AboutPageContent() {
             <img
               src={about.image}
               alt={about.imageAlt}
-              className="aspect-[4/5] max-h-[min(55vh,480px)] w-full object-cover object-center sm:max-h-none sm:aspect-[5/6]"
+              className="aspect-[4/5] max-h-[min(55vh,480px)] w-full object-cover object-[22%_center] sm:max-h-none sm:aspect-[5/6]"
             />
           </div>
         </ScrollReveal>

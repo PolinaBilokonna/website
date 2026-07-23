@@ -28,7 +28,7 @@ export function IntroCallout({ className = "", compact = false }: Props) {
 
       <p
         className={`quote-italic mt-3 leading-relaxed text-navy/88 ${
-          compact ? "text-[0.95rem]" : "text-base sm:text-[1.15rem]"
+          compact ? "text-[1.15rem]" : "text-[1.21rem] sm:text-[1.39rem]"
         }`}
       >
         {before.trimEnd()}{" "}

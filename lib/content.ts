@@ -212,7 +212,7 @@ export const dictionaries: Record<Locale, Dictionary> = {
     },
     socials: [...socialLinks],
     home: {
-      heroEyebrow: "Брой 01 · Среща със себе си",
+      heroEyebrow: "Среща със себе си",
       heroTitle: "Терапията не е техника.",
       heroTitleAccent: "Тя е среща.",
       heroLead:
