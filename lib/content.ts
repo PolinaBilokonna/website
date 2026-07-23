@@ -357,6 +357,12 @@ export const dictionaries: Record<Locale, Dictionary> = {
           excerpt:
             "Как да гледаме на двата полюса като на една и съща учебна пътека.",
         },
+        {
+          id: "cbt-basics",
+          title: "Какво е когнитивно-поведенческа терапия (КПТ)",
+          excerpt:
+            "КПТ работи с връзката между мисли, емоции и поведение - учим се да забелязваме автоматичните мисли, да ги проверяваме за реалистичност и постепенно да изграждаме по-подкрепящи навици. Кратка, практична и насочена към конкретни промени в ежедневието.",
+        },
       ],
     },
     contactPage: {
@@ -582,6 +588,12 @@ export const dictionaries: Record<Locale, Dictionary> = {
           title: "The experience of failure and success",
           excerpt:
             "How to see both poles as one continuous path of learning.",
+        },
+        {
+          id: "cbt-basics",
+          title: "What is Cognitive Behavioral Therapy (CBT)",
+          excerpt:
+            "CBT works with the link between thoughts, emotions, and behavior - we learn to notice automatic thoughts, test them against reality, and gradually build more supportive habits. Short, practical, and focused on concrete everyday change.",
         },
       ],
     },
